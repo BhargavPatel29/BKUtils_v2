@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "BKUtils"
 include(":app")
 include(":bktoast")
+include(":bkpref")
