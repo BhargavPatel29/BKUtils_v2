@@ -23,3 +23,4 @@ rootProject.name = "BKUtils"
 include(":app")
 include(":bktoast")
 include(":bkpref")
+include(":bkcalender")
